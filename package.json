@@ -1,0 +1,16 @@
+{ 
+	"name": "MySite", 
+	"version": "0.0.1", 
+	"private": "true", 
+	"dependencies": { 
+		"express": "3.0.0alpha4", 
+		"jade": "*", 
+		"stylus": "*", 
+		"nib": "*", 
+		"crawler": "0.2.4",
+		"jquery":"2.1.0",
+		"jsdom": "*",
+		"skim": "~0.1.0",
+	    "rem": "~0.6.7",
+	} 
+} 
